@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "../../layout/browser.json",
+    "./style.css",
+    "./lib.js"
+  ]
+}

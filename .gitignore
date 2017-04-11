@@ -1,2 +1,5 @@
 .idea
+.cache
 node_modules
+static/*.css
+static/*.js
