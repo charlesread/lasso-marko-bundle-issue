@@ -1,0 +1,17 @@
+{
+  "name": "lasso-marko-bundle-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.1.1",
+    "lasso": "^2.11.8",
+    "lasso-marko": "^2.3.0",
+    "marko": "^4.2.7"
+  }
+}
